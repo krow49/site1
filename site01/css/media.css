@@ -1,0 +1,147 @@
+@media screen and (min-width:1200px){
+
+} 
+@media screen and (min-width: 992px) and (max-width: 1199px){
+	
+} 
+@media screen and (min-width: 768px) and (max-width: 991px){
+	.menu-2{
+		padding-top: 30px;
+	}
+} 
+@media screen and (min-width: 768px){
+	.menu-2{
+		height: 112px;
+	}
+	.futer-menu{
+		height: 284px;
+	}
+	.menu-2{
+		height: 112px;
+	}
+	.futer-menu{
+		height: 284px;
+	}
+	.menu-2 ul{
+	padding-left: 40px;
+	}
+	.heat-menu1{
+		height: 400px;
+	}
+	.right-cnopka{
+	text-align: right;
+	}
+	.proggresia{
+		height: 340px;
+	}
+	.progress_skala{
+	background: linear-gradient(to right, #F8F9F9 0%,#F8F9F9 50%,#E9E9E9 50%,#E9E9E9 100%);
+	}
+	.progress{
+		width: 85%;
+	}
+	.counter__row{
+		height: 220px;
+	}
+	.counter img{
+	margin-right: 0px;
+	}
+	.chahmat_row{
+	padding-left: 0px;
+    padding-right: 0px;
+	height: 250px;
+	}
+	.chahmat_row4{
+	background-color: #DDDDDD;
+	padding-left: 0px;
+    padding-right: 0px;
+    min-height: 0px;
+	}
+	.chahmat_row5{
+	background-color: #838383;
+	padding-left: 0px;
+    padding-right: 0px;
+    min-height: 0px;
+	}
+	.video__decoration{
+	max-height: 600px;
+	min-height: 350px;
+	}
+} 
+@media screen and (min-width: 576px) and (max-width: 767px){
+	.right-cnopka{
+	text-align: center;
+	}
+	.menu-1_1{
+	margin-top: 30px;
+	}
+	.podpis{
+		height: 200px;
+	}
+	.progress_skala{
+	background-color: #F8F9F9;
+	}
+	.progress{
+		width: 100%;
+	}
+	.counter__row{
+		height: 300px;
+	}
+	.counter img{
+		margin:0 auto;
+	}
+	.chahmat1_row{
+	padding-left: 0px;
+    padding-right: 0px;
+	height: 250px;
+	}
+	.chahmat_row2{
+	background-color: #DDDDDD;
+	padding-left: 0px;
+    padding-right: 0px;
+    min-height: 0px;
+	}
+	.chahmat_row1{
+	background-color: #838383;
+	padding-left: 0px;
+    padding-right: 0px;
+    min-height: 0px;
+	}
+	.video__decoration{
+	max-height: 600px;
+	min-height: 200px;
+	}
+	.play img{
+	width: 65px;
+	}
+}
+@media screen and (min-width: 0px) and (max-width: 575px){
+	.right-cnopka{
+	text-align: center;
+	}
+	.menu-2 ul{
+	padding-left: 40px;
+	}
+	.podpis{
+		height: 200px;
+	}
+	.progress_skala{
+	background-color: #F8F9F9;
+	}
+	.progress{
+		width: 100%;
+	}
+	.counter__row{
+		height: 600px;
+	}
+	.counter img{
+		margin-right:0px;
+	}
+	.video__decoration{
+	max-height: 600px;
+	min-height: 200px;
+	}
+	.play img{
+	width: 50px;
+	}
+} 
